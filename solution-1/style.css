@@ -1,35 +1,35 @@
 *{
-    margin: 0;
-    padding: 0;
+	margin: 0;
+	padding: 0;
 }
 .head{
-    width: 100%;
-    height: 50px;
-    background: skyblue;
+	width: 100%;
+	height: 50px;
+	background: skyblue;
 }
 .content{
-    width: 1920px;
-    height: 940px;
-    list-style: none;
+	width: 1920px;
+	height: 940px;
+	list-style: none;
 }
 .content .left{
-    float: left;
-    width: 150px;
-    height: 100%;
-    background: pink;
-    overflow-y: auto;
+	float: left;
+	width: 150px;
+	height: 100%;
+	background: pink;
+	overflow-y: auto;
 }
 .content .right{
-    float: right;
-    width: 1770px;
-    height: 100%;
-    background: yellow;
-    overflow: auto;
+	float: right;
+	width: 1770px;
+	height: 100%;
+	background: yellow;
+	overflow: auto;
 }
 li.left div{
-    height: 1000px;
+	height: 1000px;
 }
 li.right div{
-    width: 2000px;
-    height: 1000px;
+	width: 2000px;
+	height: 1000px;
 }

@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	position: fixed;
+	width: 100%;
+	height: 50px;
+	background-color: #373d41;
+	z-index: 101;
+}
+.container{
+	position: absolute;
+	width: 100%;
+	top: 50px;
+	bottom: 0px;
+	background-color: #000;
+	z-index: 100;
+}
+nav{
+	position: fixed;
+	width: 180px;
+	top: 50px;
+	bottom: 0px;
+	background-color: #293038;
+	overflow-x: hidden;
+	z-index: 102;
+}
+.content{
+	position: absolute;
+	width: auto;
+	top: 0px;
+	bottom: 0px;
+	left: 180px;
+	right: 0px;
+	background-color: #eaedf1;
+	overflow: hidden;
+}
+p{
+	width: 2000px;
+	height: 1000px;
+}
