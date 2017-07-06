@@ -15,11 +15,11 @@ nav{
     float: left;
 }
 .content{
-    width: 1770px;
+    width: 1750px;
     height: 940px;
     background-color:silver;
     overflow: auto;
-    float: left; 
+    float: left;
 }
 p{
     height: 1000px;
